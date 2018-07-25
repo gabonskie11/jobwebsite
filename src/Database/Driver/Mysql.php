@@ -38,7 +38,7 @@ class Mysql extends Driver
         'host' => 'localhost',
         'username' => 'root',
         'password' => '',
-        'database' => 'cake',
+        'database' => 'jobwebsite',
         'port' => '3306',
         'flags' => [],
         'encoding' => 'utf8mb4',
